@@ -28,5 +28,5 @@ while flag == True:
         tmp += 1
 horv, loc = input().split(',')
 horv, loc = horv, float(loc)  # 改成小數來計算
-
+print("kkkkk")
 plotmirror(line, horv, loc)  # 執行上面定義的函數
